@@ -1,1 +1,1 @@
-anime tracker app v1, made with react, node, postgresql
+PWA application to track anime V1, made with react, node, postgresql
